@@ -1,0 +1,10 @@
+For users:
+*********
+
+git clone https://github.com/ngrigri/fsp.git
+
+cd fsp/gui
+
+./fsp_gui.sh
+
+and follow instructions ;-)
