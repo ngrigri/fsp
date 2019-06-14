@@ -1,0 +1,14 @@
+&FSP             !
+  ifsp =     15, ! an example of an  integer namelist parameter
+  rfsp =   3.14, ! an example of a      real namelist parameter
+  lfsp = .TRUE., ! an example of a   logical namelist parameter
+  cfsp = 'fortran skeleton package',    ! an example of a character namelist parameter
+/
+
+&PARAM              !
+  iparam =      10, ! an example of an  integer namelist parameter
+  rparam =    14.3, ! an example of a      real namelist parameter
+  lparam = .FALSE., ! an example of a   logical namelist parameter
+  cparam = 'an example of namelist char parameter',   ! an example of a character namelist parameter
+/
+! don't remove this line !
